@@ -79,10 +79,7 @@ src/main/java/net/javaguides/banking/app/
    ./mvnw spring-boot:run
    ```
 
----
 
 ## 📝 Author
 - **GitHub**: [@Divyamsingh05](https://github.com/Divyamsingh05)
 
----
-*Created with ❤️ by Antigravity*
