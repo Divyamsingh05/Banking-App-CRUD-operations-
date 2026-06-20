@@ -58,26 +58,6 @@ src/main/java/net/javaguides/banking/app/
 
 ---
 
-## ⚙️ Setup & Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Divyamsingh05/Banking-App-CRUD-operations-.git
-   ```
-
-2. **Configure Database**:
-   Update `src/main/resources/application.properties` with your MySQL credentials:
-   ```properties
-   spring.datasource.url=jdbc:mysql://localhost:3306/banking_app
-   spring.datasource.username=your_username
-   spring.datasource.password=your_password
-   ```
-
-3. **Run the Application**:
-   Using Maven Wrapper:
-   ```bash
-   ./mvnw spring-boot:run
-   ```
 
 
 ## 📝 Author
