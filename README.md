@@ -58,8 +58,6 @@ src/main/java/net/javaguides/banking/app/
 
 ---
 
-
-
 ## 📝 Author
 - **GitHub**: [@Divyamsingh05](https://github.com/Divyamsingh05)
 
