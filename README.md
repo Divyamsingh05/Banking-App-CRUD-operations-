@@ -4,7 +4,7 @@ A robust backend service for a Banking Application built with **Spring Boot**, *
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Account Management**: Create, view, and delete accounts.
 - **Banking Operations**: 
